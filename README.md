@@ -21,7 +21,7 @@ vi etc/hadoop/hadoop-env.sh
 
 - add：
 
-- exportHADOOP_COMMON_LIB_NATIVE_DIR=${HADOOP_PREFIX}/lib/native    
+exportHADOOP_COMMON_LIB_NATIVE_DIR=${HADOOP_PREFIX}/lib/native    
 
 - modify：
 
